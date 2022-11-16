@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WhereFood1</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoic2ltb24yMCIsImEiOiJjbGFoNWdzY3owMW93M3RsZjllb3dua25sIn0.cSiJrIQjLeQN9WLbs1QwwQ</string>
+</resources>
